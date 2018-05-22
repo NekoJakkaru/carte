@@ -1,0 +1,43 @@
+.visit_card {
+border: 2px black solid;
+margin: 130px auto;
+margin-left: 300px;
+margin-right: 300px;
+box-shadow: 1px 1px 1px 1px;
+}
+
+.first_part {
+    padding-top: 3%;
+    padding-left: 8%;
+    padding-right: 8%;
+    width: 50%;
+
+}
+
+img {
+    float: right;
+    top: 0;
+    right: 0;
+    margin: auto;
+}
+
+.second_part {
+    padding-left: 8%;
+    color: grey;
+
+
+}
+
+.third_part {
+    border: 8px grey solid;
+    background-color: grey;
+
+}
+
+.third_part a, .third_part p {
+    display: inline-block;
+}
+
+.second_part p {
+    display: inline-block;
+}
